@@ -14,7 +14,7 @@ cd word-counter
 ruby main.rb
  ```
 ## Contoh output 
-![Alt Text](https://github.com/gundowijoyo/word-counter/blob/main/Screenshot_2024-07-07-22-08-35-987_com.termux.jpg)
+![Alt Text](https://github.com/gundowijoyo/word-randomaizer/blob/main/Screenshot_2024-07-07-22-46-11-290_com.termux.jpg)
 
 ## Donate
 - <a href="https://saweria.co/Gundo">visit saweria me</a>
