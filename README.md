@@ -5,8 +5,8 @@
 
 ## Clone repository 
 ```bash
-git clone https://github.com/gundowijoyo/word-counter.git
-cd word-counter
+git clone https://github.com/gundowijoyo/word-random.git
+cd word-random
 ```
 
 ## Jalanlan Program
